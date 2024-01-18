@@ -1,4 +1,9 @@
-### Hi there 👋
+# Priyanka Bhattarai
+I am a student of computer student interested in web development.
+<ul>
+  <li>web development</li>
+  <li>App development</li>
+</ul>
 
 <!--
 **PriyankaBhattarai/PriyankaBhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
