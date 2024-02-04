@@ -15,7 +15,7 @@ My name is Priyanka Bhattarai, and I'm a CS student from lovely Assam, India! I'
         srcset="https://github-readme-stats.vercel.app/api?username=PriyankaBhattarai&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?    username=PriyankaBhattarai&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
+      <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?    username=PriyankaBhattarai&show_icons=true&border_radius=12&border_color=F44A4A&ring_color=F7E219&icon_color=F44A4A&hide_title=true" />
     </picture>
     &nbsp; &nbsp;
     <picture>
@@ -27,6 +27,6 @@ My name is Priyanka Bhattarai, and I'm a CS student from lovely Assam, India! I'
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaBhattarai&layout=compact&border_radius=12&border_color=A83AEF&theme=light&hide_title=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaBhattarai&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
+      <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaBhattarai&layout=compact&border_radius=12&border_color=A83AEF&hide_title=true" />
     </picture>
 </div>
