@@ -44,3 +44,14 @@ My name is Priyanka Bhattarai, and I'm a CS student from lovely Assam, India! I'
       <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaBhattarai&layout=compact&border_radius=10&border_color=A83AEF" />
     </picture>
 </div>
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Merge Sort Visualized](https://ytcards.demolab.com/?id=MlyIGMOkL5s&title=Merge+Sort+Visualized&lang=en&timestamp=1706360421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Merge Sort Visualized")](https://www.youtube.com/watch?v=MlyIGMOkL5s)
+[![Software Engineers Make $171k](https://ytcards.demolab.com/?id=jv_0uhe2uz0&title=Software+Engineers+Make+%24171k&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Software Engineers Make $171k")](https://www.youtube.com/watch?v=jv_0uhe2uz0)
+[![3 Types of Algorithms Every Programmer Needs to Know](https://ytcards.demolab.com/?id=Uym4-KhP3Lc&title=3+Types+of+Algorithms+Every+Programmer+Needs+to+Know&lang=en&timestamp=1705935625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792 "3 Types of Algorithms Every Programmer Needs to Know")](https://www.youtube.com/watch?v=Uym4-KhP3Lc)
+[![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Programmer Giveaway")](https://www.youtube.com/watch?v=_HUJpBjMjts)
+[![Insertion Sort Visualized](https://ytcards.demolab.com/?id=nZHNwb_evBg&title=Insertion+Sort+Visualized&lang=en&timestamp=1705316443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Insertion Sort Visualized")](https://www.youtube.com/watch?v=nZHNwb_evBg)
+[![How Much Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
+<!-- END YOUTUBE-CARDS -->
