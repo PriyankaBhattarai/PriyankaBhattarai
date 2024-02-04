@@ -2,6 +2,7 @@
 
 My name is Priyanka Bhattarai, and I'm a CS student from lovely Assam, India! I'm all about web development, but I've also been exploring DSA and Java code recently.
 🚀 I also have a YouTube channel, where I post travelling and coding vlogs and other fun stuff, So you can also check me out there.
+
 ##
 
 <p align="left">
@@ -10,11 +11,11 @@ My name is Priyanka Bhattarai, and I'm a CS student from lovely Assam, India! I'
   <a href="https://www.youtube.com/c/@priyankavlogs5680">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/PriyankaBhattarai?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PriyankaBhattarai?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/PriyankaBhattarai?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PriyankaBhattarai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/PriyankaBhattarai/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/PriyankaBhattarai-profile-views"/></a>
 </p>
 
 ## My Github Stats 🚀
