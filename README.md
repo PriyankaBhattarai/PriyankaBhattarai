@@ -47,12 +47,7 @@ My name is Priyanka Bhattarai, and I'm a CSE student from lovely Assam, India! I
 
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Visiting to SIU-KA-PHA Samanway Kshetra | Jorhat, Assam](https://ytcards.demolab.com/?id=hzwkzzc0hCQ&title=Visiting+to+SIU-KA-PHA+Samanway+Kshetra+%7C+Jorhat%2C+Assam&lang=en&timestamp=1680417020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visiting to SIU-KA-PHA Samanway Kshetra | Jorhat, Assam")](https://www.youtube.com/watch?v=hzwkzzc0hCQ)
-[![Back to Hostel Life: A day in my hostel life](https://ytcards.demolab.com/?id=pNTUqaiFbio&title=Back+to+Hostel+Life%3A+A+day+in+my+hostel+life&lang=en&timestamp=1673350737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Back to Hostel Life: A day in my hostel life")](https://www.youtube.com/watch?v=pNTUqaiFbio)
-[![My Devfest 2022 Experience | Guwahati, Assam](https://ytcards.demolab.com/?id=ViFEvDJdSO4&title=My+Devfest+2022+Experience+%7C+Guwahati%2C+Assam&lang=en&timestamp=1672903967&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Devfest 2022 Experience | Guwahati, Assam")](https://www.youtube.com/watch?v=ViFEvDJdSO4)
-[![A refreshing journey to #kakochang | Beautiful place](https://ytcards.demolab.com/?id=lx5AmEio4_8&title=A+refreshing+journey+to+%23kakochang+%7C+Beautiful+place&lang=en&timestamp=1666771931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A refreshing journey to #kakochang | Beautiful place")](https://www.youtube.com/watch?v=lx5AmEio4_8)
-[![Vishwakarma Puja at Kaziranga University | Mukbang #mukbang #kazirangauniversity](https://ytcards.demolab.com/?id=_KnYvLeG2Zk&title=Vishwakarma+Puja+at+Kaziranga+University+%7C+Mukbang+%23mukbang+%23kazirangauniversity&lang=en&timestamp=1663665076&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vishwakarma Puja at Kaziranga University | Mukbang #mukbang #kazirangauniversity")](https://www.youtube.com/watch?v=_KnYvLeG2Zk)
-[![Ku Girls Hostel Farewell ❤️](https://ytcards.demolab.com/?id=Db1BeyU2-Iw&title=Ku+Girls+Hostel+Farewell+%E2%9D%A4%EF%B8%8F&lang=en&timestamp=1657356356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ku Girls Hostel Farewell ❤️")](https://www.youtube.com/watch?v=Db1BeyU2-Iw)
+
 <!-- END YOUTUBE-CARDS -->
 
 
